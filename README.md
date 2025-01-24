@@ -1,1 +1,1 @@
-First Box Model version. If you're here and you're not my teacher, no idea why you're here.
+First Box Model version. This is a school project so if you're seeing this and you're not my teacher, no idea why you're here.
